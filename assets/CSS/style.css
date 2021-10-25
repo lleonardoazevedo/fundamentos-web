@@ -1,0 +1,47 @@
+/* Estilos da pagina index.html */
+.center{
+    text-align: center;
+}
+.container {
+display: flex;
+flex-flow: row whap;
+justify-content: space-around;
+align-items: center;
+}
+
+body {
+    background: #e7e0c9be
+}
+
+img {
+width: 260px;
+height: 390px;
+padding: 30px;
+
+}
+
+header {
+display: flex;
+justify-content: center;
+}
+
+.menu {
+background-color:  black;
+display: flex;
+width: 900;
+justify-content: center;
+padding: 15px;
+}
+
+.p{
+    padding: 30px;
+}
+
+.h2{
+    padding: 20px; 
+}
+
+.v{
+    padding: 20px;  
+}
+/* Estilos da pagina contato.html */
